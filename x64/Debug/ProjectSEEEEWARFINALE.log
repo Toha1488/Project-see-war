@@ -1,0 +1,3 @@
+﻿  ProjectSEEEEWARFINALE.cpp
+C:\Users\top\Documents\ProjectSEEEEWARFINALE\ProjectSEEEEWARFINALE.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ProjectSEEEEWARFINALE.vcxproj -> C:\Users\top\Documents\ProjectSEEEEWARFINALE\x64\Debug\ProjectSEEEEWARFINALE.exe
